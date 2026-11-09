@@ -1,0 +1,16 @@
+{
+  "name": "@rokugan/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node ../../build/server/src/index.js"
+  },
+  "dependencies": {
+    "@rokugan/engine": "*",
+    "boardgame.io": "^0.50.2",
+    "koa-static": "^5.0.0",
+    "node-persist": "^3.1.3"
+  }
+}

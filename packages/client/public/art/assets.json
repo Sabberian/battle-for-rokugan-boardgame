@@ -1,0 +1,2202 @@
+{
+  "version": 1,
+  "sourceRepository": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/",
+  "board": {
+    "path": "/art/board.webp",
+    "width": 1800,
+    "height": 2700,
+    "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/MAP.jpg",
+    "orientationNote": "Raw pixels are already north-up. Wrong EXIF orientation=8 was ignored; no geometric rotation was applied."
+  },
+  "cover": {
+    "path": "/art/cover.webp",
+    "width": 850,
+    "height": 1101,
+    "source": "https://images-cdn.fantasyflightgames.com/filer_public/95/ef/95ef7efa-c0e1-4ae9-bd33-5439d236cefb/l5b01_rulebook_webcompressed.pdf#page=1"
+  },
+  "clans": {
+    "crab": {
+      "path": "/art/clans/crab.webp",
+      "width": 500,
+      "height": 176,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_shirm.png"
+    },
+    "crane": {
+      "path": "/art/clans/crane.webp",
+      "width": 500,
+      "height": 175,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_shirm.png"
+    },
+    "dragon": {
+      "path": "/art/clans/dragon.webp",
+      "width": 500,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_shirm.png"
+    },
+    "lion": {
+      "path": "/art/clans/lion.webp",
+      "width": 500,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_shirm.png"
+    },
+    "phoenix": {
+      "path": "/art/clans/phoenix.webp",
+      "width": 500,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_shirm.png"
+    },
+    "scorpion": {
+      "path": "/art/clans/scorpion.webp",
+      "width": 500,
+      "height": 179,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_shirm.png"
+    },
+    "unicorn": {
+      "path": "/art/clans/unicorn.webp",
+      "width": 500,
+      "height": 178,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_shirm.png"
+    }
+  },
+  "emblems": {
+    "crab": {
+      "path": "/art/emblems/crab.webp",
+      "width": 160,
+      "height": 156,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_close.png"
+    },
+    "crane": {
+      "path": "/art/emblems/crane.webp",
+      "width": 160,
+      "height": 158,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_close.png"
+    },
+    "dragon": {
+      "path": "/art/emblems/dragon.webp",
+      "width": 160,
+      "height": 151,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/drago_close.png"
+    },
+    "lion": {
+      "path": "/art/emblems/lion.webp",
+      "width": 160,
+      "height": 158,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_close.png"
+    },
+    "phoenix": {
+      "path": "/art/emblems/phoenix.webp",
+      "width": 160,
+      "height": 159,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_close.png"
+    },
+    "scorpion": {
+      "path": "/art/emblems/scorpion.webp",
+      "width": 160,
+      "height": 160,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorp_close.png"
+    },
+    "unicorn": {
+      "path": "/art/emblems/unicorn.webp",
+      "width": 160,
+      "height": 159,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unic_close.png"
+    }
+  },
+  "tokens": {
+    "crab": {
+      "back": {
+        "path": "/art/tokens/crab-back.webp",
+        "width": 180,
+        "height": 171,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_bt_close.png"
+      },
+      "army-1": {
+        "path": "/art/tokens/crab-army-1.webp",
+        "width": 180,
+        "height": 167,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_army_1.png"
+      },
+      "army-2": {
+        "path": "/art/tokens/crab-army-2.webp",
+        "width": 180,
+        "height": 174,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_army_2.png"
+      },
+      "army-3": {
+        "path": "/art/tokens/crab-army-3.webp",
+        "width": 180,
+        "height": 177,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_army_3.png"
+      },
+      "army-4": {
+        "path": "/art/tokens/crab-army-4.webp",
+        "width": 180,
+        "height": 174,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_army_4.png"
+      },
+      "army-5": {
+        "path": "/art/tokens/crab-army-5.webp",
+        "width": 180,
+        "height": 178,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_army_5.png"
+      },
+      "navy-1": {
+        "path": "/art/tokens/crab-navy-1.webp",
+        "width": 180,
+        "height": 167,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_fleet_1.png"
+      },
+      "navy-2": {
+        "path": "/art/tokens/crab-navy-2.webp",
+        "width": 180,
+        "height": 171,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_fleet_2.png"
+      },
+      "navy-3": {
+        "path": "/art/tokens/crab-navy-3.webp",
+        "width": 180,
+        "height": 178,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_fleet_3.png"
+      },
+      "shinobi-1": {
+        "path": "/art/tokens/crab-shinobi-1.webp",
+        "width": 180,
+        "height": 172,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_shinobi_1.png"
+      },
+      "shinobi-2": {
+        "path": "/art/tokens/crab-shinobi-2.webp",
+        "width": 180,
+        "height": 170,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_shinobi_2.png"
+      },
+      "blessing-2": {
+        "path": "/art/tokens/crab-blessing-2.webp",
+        "width": 180,
+        "height": 176,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_blessing_2.png"
+      },
+      "raid-0": {
+        "path": "/art/tokens/crab-raid-0.webp",
+        "width": 180,
+        "height": 180,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_pogrom_0.png"
+      },
+      "diplomacy-0": {
+        "path": "/art/tokens/crab-diplomacy-0.webp",
+        "width": 180,
+        "height": 166,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_diplomacy_0.png"
+      },
+      "bluff-0": {
+        "path": "/art/tokens/crab-bluff-0.webp",
+        "width": 180,
+        "height": 177,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_empty_0.png"
+      }
+    },
+    "crane": {
+      "back": {
+        "path": "/art/tokens/crane-back.webp",
+        "width": 180,
+        "height": 167,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_bt_close.png"
+      },
+      "army-1": {
+        "path": "/art/tokens/crane-army-1.webp",
+        "width": 180,
+        "height": 179,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_army_1.png"
+      },
+      "army-2": {
+        "path": "/art/tokens/crane-army-2.webp",
+        "width": 180,
+        "height": 183,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_army_2.png"
+      },
+      "army-3": {
+        "path": "/art/tokens/crane-army-3.webp",
+        "width": 180,
+        "height": 172,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_army_3.png"
+      },
+      "army-4": {
+        "path": "/art/tokens/crane-army-4.webp",
+        "width": 180,
+        "height": 183,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_army_4.png"
+      },
+      "army-5": {
+        "path": "/art/tokens/crane-army-5.webp",
+        "width": 180,
+        "height": 177,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_army_5.png"
+      },
+      "navy-1": {
+        "path": "/art/tokens/crane-navy-1.webp",
+        "width": 180,
+        "height": 180,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_fleet_1.png"
+      },
+      "navy-2": {
+        "path": "/art/tokens/crane-navy-2.webp",
+        "width": 180,
+        "height": 179,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_fleet_2.png"
+      },
+      "shinobi-1": {
+        "path": "/art/tokens/crane-shinobi-1.webp",
+        "width": 180,
+        "height": 177,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_shinobi_1.png"
+      },
+      "shinobi-2": {
+        "path": "/art/tokens/crane-shinobi-2.webp",
+        "width": 180,
+        "height": 175,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_shinobi_2.png"
+      },
+      "blessing-2": {
+        "path": "/art/tokens/crane-blessing-2.webp",
+        "width": 180,
+        "height": 184,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_blessing_2.png"
+      },
+      "raid-0": {
+        "path": "/art/tokens/crane-raid-0.webp",
+        "width": 180,
+        "height": 168,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_pogrom_0.png"
+      },
+      "diplomacy-0": {
+        "path": "/art/tokens/crane-diplomacy-0.webp",
+        "width": 180,
+        "height": 178,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_diplomacy_0.png"
+      },
+      "bluff-0": {
+        "path": "/art/tokens/crane-bluff-0.webp",
+        "width": 180,
+        "height": 175,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_empty_0.png"
+      }
+    },
+    "dragon": {
+      "back": {
+        "path": "/art/tokens/dragon-back.webp",
+        "width": 180,
+        "height": 172,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_bt_close.png"
+      },
+      "army-1": {
+        "path": "/art/tokens/dragon-army-1.webp",
+        "width": 180,
+        "height": 173,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_army_1.png"
+      },
+      "army-2": {
+        "path": "/art/tokens/dragon-army-2.webp",
+        "width": 180,
+        "height": 177,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_army_2.png"
+      },
+      "army-3": {
+        "path": "/art/tokens/dragon-army-3.webp",
+        "width": 180,
+        "height": 178,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_army_3.png"
+      },
+      "army-4": {
+        "path": "/art/tokens/dragon-army-4.webp",
+        "width": 180,
+        "height": 168,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_army_4.png"
+      },
+      "army-5": {
+        "path": "/art/tokens/dragon-army-5.webp",
+        "width": 180,
+        "height": 176,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_army_5.png"
+      },
+      "navy-1": {
+        "path": "/art/tokens/dragon-navy-1.webp",
+        "width": 180,
+        "height": 169,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_fleet_1.png"
+      },
+      "navy-2": {
+        "path": "/art/tokens/dragon-navy-2.webp",
+        "width": 180,
+        "height": 171,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_fleet_2.png"
+      },
+      "shinobi-1": {
+        "path": "/art/tokens/dragon-shinobi-1.webp",
+        "width": 180,
+        "height": 175,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_shinobi_1.png"
+      },
+      "shinobi-2": {
+        "path": "/art/tokens/dragon-shinobi-2.webp",
+        "width": 180,
+        "height": 174,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_shinobi_2.png"
+      },
+      "blessing-2": {
+        "path": "/art/tokens/dragon-blessing-2.webp",
+        "width": 180,
+        "height": 178,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_blessing_2.png"
+      },
+      "blessing-3": {
+        "path": "/art/tokens/dragon-blessing-3.webp",
+        "width": 180,
+        "height": 171,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_blessing_3.png"
+      },
+      "raid-0": {
+        "path": "/art/tokens/dragon-raid-0.webp",
+        "width": 180,
+        "height": 175,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_pogrom_0.png"
+      },
+      "diplomacy-0": {
+        "path": "/art/tokens/dragon-diplomacy-0.webp",
+        "width": 180,
+        "height": 168,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_diplomacy_0.png"
+      },
+      "bluff-0": {
+        "path": "/art/tokens/dragon-bluff-0.webp",
+        "width": 180,
+        "height": 171,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_empty_0.png"
+      }
+    },
+    "lion": {
+      "back": {
+        "path": "/art/tokens/lion-back.webp",
+        "width": 180,
+        "height": 180,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_bt_close.png"
+      },
+      "army-1": {
+        "path": "/art/tokens/lion-army-1.webp",
+        "width": 180,
+        "height": 181,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_army_1.png"
+      },
+      "army-2": {
+        "path": "/art/tokens/lion-army-2.webp",
+        "width": 180,
+        "height": 173,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_army_2.png"
+      },
+      "army-3": {
+        "path": "/art/tokens/lion-army-3.webp",
+        "width": 180,
+        "height": 169,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_army_3.png"
+      },
+      "army-4": {
+        "path": "/art/tokens/lion-army-4.webp",
+        "width": 180,
+        "height": 181,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_army_4.png"
+      },
+      "army-5": {
+        "path": "/art/tokens/lion-army-5.webp",
+        "width": 180,
+        "height": 169,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_army_5.png"
+      },
+      "army-6": {
+        "path": "/art/tokens/lion-army-6.webp",
+        "width": 180,
+        "height": 177,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_army_6.png"
+      },
+      "navy-1": {
+        "path": "/art/tokens/lion-navy-1.webp",
+        "width": 180,
+        "height": 170,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_fleet_1.png"
+      },
+      "navy-2": {
+        "path": "/art/tokens/lion-navy-2.webp",
+        "width": 180,
+        "height": 174,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_fleet_2.png"
+      },
+      "shinobi-1": {
+        "path": "/art/tokens/lion-shinobi-1.webp",
+        "width": 180,
+        "height": 171,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_shinobi_1.png"
+      },
+      "shinobi-2": {
+        "path": "/art/tokens/lion-shinobi-2.webp",
+        "width": 180,
+        "height": 169,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_shinobi_2.png"
+      },
+      "blessing-2": {
+        "path": "/art/tokens/lion-blessing-2.webp",
+        "width": 180,
+        "height": 164,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_blessing_2.png"
+      },
+      "raid-0": {
+        "path": "/art/tokens/lion-raid-0.webp",
+        "width": 180,
+        "height": 178,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_pogrom_0.png"
+      },
+      "diplomacy-0": {
+        "path": "/art/tokens/lion-diplomacy-0.webp",
+        "width": 180,
+        "height": 178,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_diplomacy_0.png"
+      },
+      "bluff-0": {
+        "path": "/art/tokens/lion-bluff-0.webp",
+        "width": 180,
+        "height": 175,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_empty_2.png"
+      }
+    },
+    "phoenix": {
+      "back": {
+        "path": "/art/tokens/phoenix-back.webp",
+        "width": 180,
+        "height": 179,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_bt_close.png"
+      },
+      "army-1": {
+        "path": "/art/tokens/phoenix-army-1.webp",
+        "width": 180,
+        "height": 168,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_army_1.png"
+      },
+      "army-2": {
+        "path": "/art/tokens/phoenix-army-2.webp",
+        "width": 180,
+        "height": 174,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_army_2.png"
+      },
+      "army-3": {
+        "path": "/art/tokens/phoenix-army-3.webp",
+        "width": 180,
+        "height": 165,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_army_3.png"
+      },
+      "army-4": {
+        "path": "/art/tokens/phoenix-army-4.webp",
+        "width": 180,
+        "height": 172,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_army_4.png"
+      },
+      "army-5": {
+        "path": "/art/tokens/phoenix-army-5.webp",
+        "width": 180,
+        "height": 174,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_army_5.png"
+      },
+      "navy-1": {
+        "path": "/art/tokens/phoenix-navy-1.webp",
+        "width": 180,
+        "height": 177,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_fleet_1.png"
+      },
+      "navy-2": {
+        "path": "/art/tokens/phoenix-navy-2.webp",
+        "width": 180,
+        "height": 169,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_fleet_2.png"
+      },
+      "shinobi-1": {
+        "path": "/art/tokens/phoenix-shinobi-1.webp",
+        "width": 180,
+        "height": 172,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_shinobi_1.png"
+      },
+      "shinobi-2": {
+        "path": "/art/tokens/phoenix-shinobi-2.webp",
+        "width": 180,
+        "height": 171,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_shinobi_2.png"
+      },
+      "blessing-2": {
+        "path": "/art/tokens/phoenix-blessing-2.webp",
+        "width": 180,
+        "height": 184,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_blessing_2.png"
+      },
+      "blessing-3": {
+        "path": "/art/tokens/phoenix-blessing-3.webp",
+        "width": 180,
+        "height": 184,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_blessing_3.png"
+      },
+      "raid-0": {
+        "path": "/art/tokens/phoenix-raid-0.webp",
+        "width": 180,
+        "height": 173,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_pogrom_0.png"
+      },
+      "diplomacy-0": {
+        "path": "/art/tokens/phoenix-diplomacy-0.webp",
+        "width": 180,
+        "height": 180,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_diplomacy_0.png"
+      },
+      "bluff-0": {
+        "path": "/art/tokens/phoenix-bluff-0.webp",
+        "width": 180,
+        "height": 177,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_empty_0.png"
+      }
+    },
+    "scorpion": {
+      "back": {
+        "path": "/art/tokens/scorpion-back.webp",
+        "width": 180,
+        "height": 171,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_bt_close.png"
+      },
+      "army-1": {
+        "path": "/art/tokens/scorpion-army-1.webp",
+        "width": 180,
+        "height": 176,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_army_1.png"
+      },
+      "army-2": {
+        "path": "/art/tokens/scorpion-army-2.webp",
+        "width": 180,
+        "height": 172,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_army_2.png"
+      },
+      "army-3": {
+        "path": "/art/tokens/scorpion-army-3.webp",
+        "width": 180,
+        "height": 167,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_army_3.png"
+      },
+      "army-4": {
+        "path": "/art/tokens/scorpion-army-4.webp",
+        "width": 180,
+        "height": 172,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_army_4.png"
+      },
+      "army-5": {
+        "path": "/art/tokens/scorpion-army-5.webp",
+        "width": 180,
+        "height": 173,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_army_5.png"
+      },
+      "navy-1": {
+        "path": "/art/tokens/scorpion-navy-1.webp",
+        "width": 180,
+        "height": 174,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_fleet_1.png"
+      },
+      "navy-2": {
+        "path": "/art/tokens/scorpion-navy-2.webp",
+        "width": 180,
+        "height": 169,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_fleet_2.png"
+      },
+      "shinobi-1": {
+        "path": "/art/tokens/scorpion-shinobi-1.webp",
+        "width": 180,
+        "height": 176,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_shinobi_1.png"
+      },
+      "shinobi-2": {
+        "path": "/art/tokens/scorpion-shinobi-2.webp",
+        "width": 180,
+        "height": 175,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_shinobi_2.png"
+      },
+      "shinobi-3": null,
+      "blessing-2": {
+        "path": "/art/tokens/scorpion-blessing-2.webp",
+        "width": 180,
+        "height": 171,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_blessing_2.png"
+      },
+      "raid-0": {
+        "path": "/art/tokens/scorpion-raid-0.webp",
+        "width": 180,
+        "height": 167,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_pogrom_0.png"
+      },
+      "diplomacy-0": {
+        "path": "/art/tokens/scorpion-diplomacy-0.webp",
+        "width": 180,
+        "height": 178,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_diplomacy_0.png"
+      },
+      "bluff-0": {
+        "path": "/art/tokens/scorpion-bluff-0.webp",
+        "width": 180,
+        "height": 161,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_empty_0.png"
+      }
+    },
+    "unicorn": {
+      "back": {
+        "path": "/art/tokens/unicorn-back.webp",
+        "width": 180,
+        "height": 170,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_bt_close.png"
+      },
+      "army-1": {
+        "path": "/art/tokens/unicorn-army-1.webp",
+        "width": 180,
+        "height": 171,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_army_1.png"
+      },
+      "army-2": {
+        "path": "/art/tokens/unicorn-army-2.webp",
+        "width": 180,
+        "height": 168,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_army_2.png"
+      },
+      "army-3": {
+        "path": "/art/tokens/unicorn-army-3.webp",
+        "width": 180,
+        "height": 178,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_army_3.png"
+      },
+      "army-4": {
+        "path": "/art/tokens/unicorn-army-4.webp",
+        "width": 180,
+        "height": 175,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_army_4.png"
+      },
+      "army-5": {
+        "path": "/art/tokens/unicorn-army-5.webp",
+        "width": 180,
+        "height": 177,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_army_5.png"
+      },
+      "navy-1": {
+        "path": "/art/tokens/unicorn-navy-1.webp",
+        "width": 180,
+        "height": 175,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_fleet_1.png"
+      },
+      "navy-2": {
+        "path": "/art/tokens/unicorn-navy-2.webp",
+        "width": 180,
+        "height": 178,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_fleet_2.png"
+      },
+      "shinobi-1": {
+        "path": "/art/tokens/unicorn-shinobi-1.webp",
+        "width": 180,
+        "height": 180,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_shinobi_1.png"
+      },
+      "shinobi-2": {
+        "path": "/art/tokens/unicorn-shinobi-2.webp",
+        "width": 180,
+        "height": 172,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_shinobi_2.png"
+      },
+      "blessing-2": {
+        "path": "/art/tokens/unicorn-blessing-2.webp",
+        "width": 180,
+        "height": 173,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_blessing_2.png"
+      },
+      "raid-0": {
+        "path": "/art/tokens/unicorn-raid-0.webp",
+        "width": 180,
+        "height": 172,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_pogrom_0.png"
+      },
+      "diplomacy-0": {
+        "path": "/art/tokens/unicorn-diplomacy-0.webp",
+        "width": 180,
+        "height": 166,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_diplomacy_0.png"
+      },
+      "bluff-0": {
+        "path": "/art/tokens/unicorn-bluff-0.webp",
+        "width": 180,
+        "height": 172,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_empty_0.png"
+      }
+    }
+  },
+  "cards": {
+    "harbor": {
+      "path": "/art/cards/harbor.webp",
+      "width": 362,
+      "height": 568,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/sea_token_special_card.png"
+    },
+    "promotion": {
+      "path": "/art/cards/promotion.webp",
+      "width": 358,
+      "height": 558,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/rotation_card.png"
+    },
+    "honor": {
+      "path": "/art/cards/honor.webp",
+      "width": 360,
+      "height": 559,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/1_points_special_card.png"
+    },
+    "peace": {
+      "path": "/art/cards/peace.webp",
+      "width": 361,
+      "height": 562,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/piece_special_card.png"
+    },
+    "shrine": {
+      "path": "/art/cards/shrine.webp",
+      "width": 363,
+      "height": 559,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/shrine_special_card.png"
+    },
+    "purpose": {
+      "path": "/art/cards/purpose.webp",
+      "width": 357,
+      "height": 556,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/get_2_ct_special_card.png"
+    },
+    "port": {
+      "path": "/art/cards/port.webp",
+      "width": 374,
+      "height": 559,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/2_points_special_card.png"
+    },
+    "bushido": {
+      "path": "/art/cards/bushido.webp",
+      "width": 353,
+      "height": 547,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/4_points_special_card.png"
+    },
+    "battlefield": {
+      "path": "/art/cards/battlefield.webp",
+      "width": 356,
+      "height": 550,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/battlefield_special_card.png"
+    },
+    "levies": {
+      "path": "/art/cards/levies.webp",
+      "width": 349,
+      "height": 559,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/1_defense_special_card.png"
+    },
+    "harvest": {
+      "path": "/art/cards/harvest.webp",
+      "width": 367,
+      "height": 558,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/get_2_ct_to_1_prov_special_card.png"
+    },
+    "kami": {
+      "path": "/art/cards/kami.webp",
+      "width": 357,
+      "height": 554,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/2_defence_special_card.png"
+    },
+    "bless": {
+      "path": "/art/cards/bless.webp",
+      "width": 356,
+      "height": 557,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/del_burned_earth_special_card.png"
+    },
+    "rebellion": {
+      "path": "/art/cards/rebellion.webp",
+      "width": 353,
+      "height": 549,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/del_piece_special_card.png"
+    },
+    "dark": {
+      "path": "/art/cards/dark.webp",
+      "width": 368,
+      "height": 566,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/look_up_to_4_bt_special_card.png"
+    },
+    "purge": {
+      "path": "/art/cards/purge.webp",
+      "width": 353,
+      "height": 553,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/del_2_bt_special_card.png"
+    },
+    "animate": {
+      "path": "/art/cards/animate.webp",
+      "width": 359,
+      "height": 561,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/replace_ct_to_del_bt_special_card.png"
+    },
+    "fear": {
+      "path": "/art/cards/fear.webp",
+      "width": 369,
+      "height": 570,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/del_2_special_tokens_special_card.png"
+    },
+    "exchange": {
+      "path": "/art/cards/exchange.webp",
+      "width": 359,
+      "height": 565,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/replace_2_ct_special_card.png"
+    },
+    "reinforce": {
+      "path": "/art/cards/reinforce.webp",
+      "width": 363,
+      "height": 569,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/return_2_bt_special_card.png"
+    },
+    "pirates": null,
+    "spy": null
+  },
+  "objectives": {
+    "crab": {
+      "path": "/art/objectives/crab.webp",
+      "width": 362,
+      "height": 554,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_crab_provs_get_points_card.png"
+    },
+    "crane": {
+      "path": "/art/objectives/crane.webp",
+      "width": 358,
+      "height": 562,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_crane_provs_get_points_card.png"
+    },
+    "dragon": {
+      "path": "/art/objectives/dragon.webp",
+      "width": 353,
+      "height": 563,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_dragon_provs_get_points_card.png"
+    },
+    "lion": {
+      "path": "/art/objectives/lion.webp",
+      "width": 359,
+      "height": 561,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_lion_provs_get_points_card.png"
+    },
+    "phoenix": {
+      "path": "/art/objectives/phoenix.webp",
+      "width": 362,
+      "height": 563,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_phoenix_provs_get_points_card.png"
+    },
+    "scorpion": {
+      "path": "/art/objectives/scorpion.webp",
+      "width": 351,
+      "height": 555,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_scorpion_provs_get_points_card.png"
+    },
+    "unicorn": {
+      "path": "/art/objectives/unicorn.webp",
+      "width": 362,
+      "height": 573,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_unicorn_provs_get_points_card.png"
+    },
+    "empire": {
+      "path": "/art/objectives/empire.webp",
+      "width": 367,
+      "height": 557,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/6_provs_get_points_card.png"
+    },
+    "coast": {
+      "path": "/art/objectives/coast.webp",
+      "width": 358,
+      "height": 539,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/6_sea_provs_get_points_card.png"
+    },
+    "influence": {
+      "path": "/art/objectives/influence.webp",
+      "width": 356,
+      "height": 565,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/7_provs_get_points_card.png"
+    },
+    "shadow": {
+      "path": "/art/objectives/shadow.webp",
+      "width": 355,
+      "height": 554,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dark_provs_get_points_card.png"
+    },
+    "humility": {
+      "path": "/art/objectives/humility.webp",
+      "width": 365,
+      "height": 542,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/least_prov_get_points_card.png"
+    }
+  },
+  "support": {
+    "scout": {
+      "path": "/art/support/scout.webp",
+      "width": 364,
+      "height": 560,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scout_card.png"
+    },
+    "shugenja": {
+      "path": "/art/support/shugenja.webp",
+      "width": 356,
+      "height": 556,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/sugendzya_card.png"
+    },
+    "first": {
+      "path": "/art/support/first.webp",
+      "width": 359,
+      "height": 564,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/first_player_card.png"
+    },
+    "initiativeCards": {
+      "path": "/art/support/initiativeCards.webp",
+      "width": 353,
+      "height": 568,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/most_ter_first_player_card.png"
+    },
+    "initiativeProvinces": {
+      "path": "/art/support/initiativeProvinces.webp",
+      "width": 361,
+      "height": 575,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/most_prov_first_player_card.png"
+    },
+    "initiativeControls": {
+      "path": "/art/support/initiativeControls.webp",
+      "width": 370,
+      "height": 567,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/most_ct_first_player_card.png"
+    }
+  },
+  "specials": {
+    "peace": {
+      "path": "/art/specials/peace.webp",
+      "width": 140,
+      "height": 142,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/peace.png"
+    },
+    "scorched": {
+      "path": "/art/specials/scorched.webp",
+      "width": 140,
+      "height": 135,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorched_earth.png"
+    },
+    "shrine": {
+      "path": "/art/specials/shrine.webp",
+      "width": 140,
+      "height": 138,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/shrine.png"
+    },
+    "harbor": {
+      "path": "/art/specials/harbor.webp",
+      "width": 140,
+      "height": 134,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/harbor.png"
+    },
+    "honor1": {
+      "path": "/art/specials/honor1.webp",
+      "width": 140,
+      "height": 139,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/honor_bonus_1.png"
+    },
+    "honor2": {
+      "path": "/art/specials/honor2.webp",
+      "width": 140,
+      "height": 143,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/honor_bonus_2.png"
+    },
+    "honor4": {
+      "path": "/art/specials/honor4.webp",
+      "width": 140,
+      "height": 139,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/honor.png"
+    }
+  },
+  "controls": {
+    "crab": {
+      "closed": {
+        "path": "/art/controls/crab-closed.webp",
+        "width": 160,
+        "height": 156,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_close.png"
+      },
+      "open": {
+        "path": "/art/controls/crab-open.webp",
+        "width": 160,
+        "height": 159,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_open.png"
+      }
+    },
+    "crane": {
+      "closed": {
+        "path": "/art/controls/crane-closed.webp",
+        "width": 160,
+        "height": 158,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_close.png"
+      },
+      "open": {
+        "path": "/art/controls/crane-open.webp",
+        "width": 160,
+        "height": 153,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_open.png"
+      }
+    },
+    "dragon": {
+      "closed": {
+        "path": "/art/controls/dragon-closed.webp",
+        "width": 160,
+        "height": 151,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/drago_close.png"
+      },
+      "open": {
+        "path": "/art/controls/dragon-open.webp",
+        "width": 160,
+        "height": 162,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/drago_open.png"
+      }
+    },
+    "lion": {
+      "closed": {
+        "path": "/art/controls/lion-closed.webp",
+        "width": 160,
+        "height": 158,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_close.png"
+      },
+      "open": {
+        "path": "/art/controls/lion-open.webp",
+        "width": 160,
+        "height": 160,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_open.png"
+      }
+    },
+    "phoenix": {
+      "closed": {
+        "path": "/art/controls/phoenix-closed.webp",
+        "width": 160,
+        "height": 159,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_close.png"
+      },
+      "open": {
+        "path": "/art/controls/phoenix-open.webp",
+        "width": 160,
+        "height": 158,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_open.png"
+      }
+    },
+    "scorpion": {
+      "closed": {
+        "path": "/art/controls/scorpion-closed.webp",
+        "width": 160,
+        "height": 160,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorp_close.png"
+      },
+      "open": {
+        "path": "/art/controls/scorpion-open.webp",
+        "width": 160,
+        "height": 158,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorp_open.png"
+      }
+    },
+    "unicorn": {
+      "closed": {
+        "path": "/art/controls/unicorn-closed.webp",
+        "width": 160,
+        "height": 159,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unic_close.png"
+      },
+      "open": {
+        "path": "/art/controls/unicorn-open.webp",
+        "width": 160,
+        "height": 159,
+        "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unic_open.png"
+      }
+    }
+  },
+  "missing": [
+    {
+      "type": "token",
+      "id": "scorpion-shinobi-3",
+      "reason": "No matching scan in the reference source. Display a textual token rather than another strength."
+    },
+    {
+      "type": "territory-card",
+      "id": "pirates",
+      "reason": "No matching scan in the reference source. Use the implemented card text."
+    },
+    {
+      "type": "territory-card",
+      "id": "spy",
+      "reason": "No matching scan in the reference source. Use the implemented card text."
+    }
+  ],
+  "files": [
+    {
+      "path": "/art/board.webp",
+      "width": 1800,
+      "height": 2700,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/MAP.jpg",
+      "orientationNote": "Raw pixels are already north-up. Wrong EXIF orientation=8 was ignored; no geometric rotation was applied."
+    },
+    {
+      "path": "/art/cover.webp",
+      "width": 850,
+      "height": 1101,
+      "source": "https://images-cdn.fantasyflightgames.com/filer_public/95/ef/95ef7efa-c0e1-4ae9-bd33-5439d236cefb/l5b01_rulebook_webcompressed.pdf#page=1"
+    },
+    {
+      "path": "/art/hero.webp",
+      "width": 1056,
+      "height": 865,
+      "source": "https://images-cdn.fantasyflightgames.com/filer_public/95/ef/95ef7efa-c0e1-4ae9-bd33-5439d236cefb/l5b01_rulebook_webcompressed.pdf#page=1"
+    },
+    {
+      "path": "/art/clans/crab.webp",
+      "width": 500,
+      "height": 176,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_shirm.png"
+    },
+    {
+      "path": "/art/emblems/crab.webp",
+      "width": 160,
+      "height": 156,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_close.png"
+    },
+    {
+      "path": "/art/controls/crab-closed.webp",
+      "width": 160,
+      "height": 156,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_close.png"
+    },
+    {
+      "path": "/art/controls/crab-open.webp",
+      "width": 160,
+      "height": 159,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_open.png"
+    },
+    {
+      "path": "/art/tokens/crab-back.webp",
+      "width": 180,
+      "height": 171,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_bt_close.png"
+    },
+    {
+      "path": "/art/tokens/crab-army-1.webp",
+      "width": 180,
+      "height": 167,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_army_1.png"
+    },
+    {
+      "path": "/art/tokens/crab-army-2.webp",
+      "width": 180,
+      "height": 174,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_army_2.png"
+    },
+    {
+      "path": "/art/tokens/crab-army-3.webp",
+      "width": 180,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_army_3.png"
+    },
+    {
+      "path": "/art/tokens/crab-army-4.webp",
+      "width": 180,
+      "height": 174,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_army_4.png"
+    },
+    {
+      "path": "/art/tokens/crab-army-5.webp",
+      "width": 180,
+      "height": 178,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_army_5.png"
+    },
+    {
+      "path": "/art/tokens/crab-navy-1.webp",
+      "width": 180,
+      "height": 167,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_fleet_1.png"
+    },
+    {
+      "path": "/art/tokens/crab-navy-2.webp",
+      "width": 180,
+      "height": 171,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_fleet_2.png"
+    },
+    {
+      "path": "/art/tokens/crab-navy-3.webp",
+      "width": 180,
+      "height": 178,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_fleet_3.png"
+    },
+    {
+      "path": "/art/tokens/crab-shinobi-1.webp",
+      "width": 180,
+      "height": 172,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_shinobi_1.png"
+    },
+    {
+      "path": "/art/tokens/crab-shinobi-2.webp",
+      "width": 180,
+      "height": 170,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_shinobi_2.png"
+    },
+    {
+      "path": "/art/tokens/crab-blessing-2.webp",
+      "width": 180,
+      "height": 176,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_blessing_2.png"
+    },
+    {
+      "path": "/art/tokens/crab-raid-0.webp",
+      "width": 180,
+      "height": 180,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_pogrom_0.png"
+    },
+    {
+      "path": "/art/tokens/crab-diplomacy-0.webp",
+      "width": 180,
+      "height": 166,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_diplomacy_0.png"
+    },
+    {
+      "path": "/art/tokens/crab-bluff-0.webp",
+      "width": 180,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crab_empty_0.png"
+    },
+    {
+      "path": "/art/clans/crane.webp",
+      "width": 500,
+      "height": 175,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_shirm.png"
+    },
+    {
+      "path": "/art/emblems/crane.webp",
+      "width": 160,
+      "height": 158,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_close.png"
+    },
+    {
+      "path": "/art/controls/crane-closed.webp",
+      "width": 160,
+      "height": 158,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_close.png"
+    },
+    {
+      "path": "/art/controls/crane-open.webp",
+      "width": 160,
+      "height": 153,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_open.png"
+    },
+    {
+      "path": "/art/tokens/crane-back.webp",
+      "width": 180,
+      "height": 167,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_bt_close.png"
+    },
+    {
+      "path": "/art/tokens/crane-army-1.webp",
+      "width": 180,
+      "height": 179,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_army_1.png"
+    },
+    {
+      "path": "/art/tokens/crane-army-2.webp",
+      "width": 180,
+      "height": 183,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_army_2.png"
+    },
+    {
+      "path": "/art/tokens/crane-army-3.webp",
+      "width": 180,
+      "height": 172,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_army_3.png"
+    },
+    {
+      "path": "/art/tokens/crane-army-4.webp",
+      "width": 180,
+      "height": 183,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_army_4.png"
+    },
+    {
+      "path": "/art/tokens/crane-army-5.webp",
+      "width": 180,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_army_5.png"
+    },
+    {
+      "path": "/art/tokens/crane-navy-1.webp",
+      "width": 180,
+      "height": 180,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_fleet_1.png"
+    },
+    {
+      "path": "/art/tokens/crane-navy-2.webp",
+      "width": 180,
+      "height": 179,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_fleet_2.png"
+    },
+    {
+      "path": "/art/tokens/crane-shinobi-1.webp",
+      "width": 180,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_shinobi_1.png"
+    },
+    {
+      "path": "/art/tokens/crane-shinobi-2.webp",
+      "width": 180,
+      "height": 175,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_shinobi_2.png"
+    },
+    {
+      "path": "/art/tokens/crane-blessing-2.webp",
+      "width": 180,
+      "height": 184,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_blessing_2.png"
+    },
+    {
+      "path": "/art/tokens/crane-raid-0.webp",
+      "width": 180,
+      "height": 168,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_pogrom_0.png"
+    },
+    {
+      "path": "/art/tokens/crane-diplomacy-0.webp",
+      "width": 180,
+      "height": 178,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_diplomacy_0.png"
+    },
+    {
+      "path": "/art/tokens/crane-bluff-0.webp",
+      "width": 180,
+      "height": 175,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/crane_empty_0.png"
+    },
+    {
+      "path": "/art/clans/dragon.webp",
+      "width": 500,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_shirm.png"
+    },
+    {
+      "path": "/art/emblems/dragon.webp",
+      "width": 160,
+      "height": 151,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/drago_close.png"
+    },
+    {
+      "path": "/art/controls/dragon-closed.webp",
+      "width": 160,
+      "height": 151,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/drago_close.png"
+    },
+    {
+      "path": "/art/controls/dragon-open.webp",
+      "width": 160,
+      "height": 162,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/drago_open.png"
+    },
+    {
+      "path": "/art/tokens/dragon-back.webp",
+      "width": 180,
+      "height": 172,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_bt_close.png"
+    },
+    {
+      "path": "/art/tokens/dragon-army-1.webp",
+      "width": 180,
+      "height": 173,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_army_1.png"
+    },
+    {
+      "path": "/art/tokens/dragon-army-2.webp",
+      "width": 180,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_army_2.png"
+    },
+    {
+      "path": "/art/tokens/dragon-army-3.webp",
+      "width": 180,
+      "height": 178,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_army_3.png"
+    },
+    {
+      "path": "/art/tokens/dragon-army-4.webp",
+      "width": 180,
+      "height": 168,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_army_4.png"
+    },
+    {
+      "path": "/art/tokens/dragon-army-5.webp",
+      "width": 180,
+      "height": 176,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_army_5.png"
+    },
+    {
+      "path": "/art/tokens/dragon-navy-1.webp",
+      "width": 180,
+      "height": 169,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_fleet_1.png"
+    },
+    {
+      "path": "/art/tokens/dragon-navy-2.webp",
+      "width": 180,
+      "height": 171,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_fleet_2.png"
+    },
+    {
+      "path": "/art/tokens/dragon-shinobi-1.webp",
+      "width": 180,
+      "height": 175,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_shinobi_1.png"
+    },
+    {
+      "path": "/art/tokens/dragon-shinobi-2.webp",
+      "width": 180,
+      "height": 174,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_shinobi_2.png"
+    },
+    {
+      "path": "/art/tokens/dragon-blessing-2.webp",
+      "width": 180,
+      "height": 178,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_blessing_2.png"
+    },
+    {
+      "path": "/art/tokens/dragon-blessing-3.webp",
+      "width": 180,
+      "height": 171,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_blessing_3.png"
+    },
+    {
+      "path": "/art/tokens/dragon-raid-0.webp",
+      "width": 180,
+      "height": 175,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_pogrom_0.png"
+    },
+    {
+      "path": "/art/tokens/dragon-diplomacy-0.webp",
+      "width": 180,
+      "height": 168,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_diplomacy_0.png"
+    },
+    {
+      "path": "/art/tokens/dragon-bluff-0.webp",
+      "width": 180,
+      "height": 171,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dragon_empty_0.png"
+    },
+    {
+      "path": "/art/clans/lion.webp",
+      "width": 500,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_shirm.png"
+    },
+    {
+      "path": "/art/emblems/lion.webp",
+      "width": 160,
+      "height": 158,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_close.png"
+    },
+    {
+      "path": "/art/controls/lion-closed.webp",
+      "width": 160,
+      "height": 158,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_close.png"
+    },
+    {
+      "path": "/art/controls/lion-open.webp",
+      "width": 160,
+      "height": 160,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_open.png"
+    },
+    {
+      "path": "/art/tokens/lion-back.webp",
+      "width": 180,
+      "height": 180,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_bt_close.png"
+    },
+    {
+      "path": "/art/tokens/lion-army-1.webp",
+      "width": 180,
+      "height": 181,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_army_1.png"
+    },
+    {
+      "path": "/art/tokens/lion-army-2.webp",
+      "width": 180,
+      "height": 173,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_army_2.png"
+    },
+    {
+      "path": "/art/tokens/lion-army-3.webp",
+      "width": 180,
+      "height": 169,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_army_3.png"
+    },
+    {
+      "path": "/art/tokens/lion-army-4.webp",
+      "width": 180,
+      "height": 181,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_army_4.png"
+    },
+    {
+      "path": "/art/tokens/lion-army-5.webp",
+      "width": 180,
+      "height": 169,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_army_5.png"
+    },
+    {
+      "path": "/art/tokens/lion-army-6.webp",
+      "width": 180,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_army_6.png"
+    },
+    {
+      "path": "/art/tokens/lion-navy-1.webp",
+      "width": 180,
+      "height": 170,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_fleet_1.png"
+    },
+    {
+      "path": "/art/tokens/lion-navy-2.webp",
+      "width": 180,
+      "height": 174,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_fleet_2.png"
+    },
+    {
+      "path": "/art/tokens/lion-shinobi-1.webp",
+      "width": 180,
+      "height": 171,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_shinobi_1.png"
+    },
+    {
+      "path": "/art/tokens/lion-shinobi-2.webp",
+      "width": 180,
+      "height": 169,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_shinobi_2.png"
+    },
+    {
+      "path": "/art/tokens/lion-blessing-2.webp",
+      "width": 180,
+      "height": 164,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_blessing_2.png"
+    },
+    {
+      "path": "/art/tokens/lion-raid-0.webp",
+      "width": 180,
+      "height": 178,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_pogrom_0.png"
+    },
+    {
+      "path": "/art/tokens/lion-diplomacy-0.webp",
+      "width": 180,
+      "height": 178,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_diplomacy_0.png"
+    },
+    {
+      "path": "/art/tokens/lion-bluff-0.webp",
+      "width": 180,
+      "height": 175,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/lion_empty_2.png"
+    },
+    {
+      "path": "/art/clans/phoenix.webp",
+      "width": 500,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_shirm.png"
+    },
+    {
+      "path": "/art/emblems/phoenix.webp",
+      "width": 160,
+      "height": 159,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_close.png"
+    },
+    {
+      "path": "/art/controls/phoenix-closed.webp",
+      "width": 160,
+      "height": 159,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_close.png"
+    },
+    {
+      "path": "/art/controls/phoenix-open.webp",
+      "width": 160,
+      "height": 158,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_open.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-back.webp",
+      "width": 180,
+      "height": 179,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_bt_close.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-army-1.webp",
+      "width": 180,
+      "height": 168,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_army_1.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-army-2.webp",
+      "width": 180,
+      "height": 174,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_army_2.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-army-3.webp",
+      "width": 180,
+      "height": 165,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_army_3.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-army-4.webp",
+      "width": 180,
+      "height": 172,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_army_4.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-army-5.webp",
+      "width": 180,
+      "height": 174,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_army_5.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-navy-1.webp",
+      "width": 180,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_fleet_1.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-navy-2.webp",
+      "width": 180,
+      "height": 169,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_fleet_2.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-shinobi-1.webp",
+      "width": 180,
+      "height": 172,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_shinobi_1.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-shinobi-2.webp",
+      "width": 180,
+      "height": 171,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_shinobi_2.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-blessing-2.webp",
+      "width": 180,
+      "height": 184,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_blessing_2.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-blessing-3.webp",
+      "width": 180,
+      "height": 184,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_blessing_3.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-raid-0.webp",
+      "width": 180,
+      "height": 173,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_pogrom_0.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-diplomacy-0.webp",
+      "width": 180,
+      "height": 180,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_diplomacy_0.png"
+    },
+    {
+      "path": "/art/tokens/phoenix-bluff-0.webp",
+      "width": 180,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/phoenix_empty_0.png"
+    },
+    {
+      "path": "/art/clans/scorpion.webp",
+      "width": 500,
+      "height": 179,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_shirm.png"
+    },
+    {
+      "path": "/art/emblems/scorpion.webp",
+      "width": 160,
+      "height": 160,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorp_close.png"
+    },
+    {
+      "path": "/art/controls/scorpion-closed.webp",
+      "width": 160,
+      "height": 160,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorp_close.png"
+    },
+    {
+      "path": "/art/controls/scorpion-open.webp",
+      "width": 160,
+      "height": 158,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorp_open.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-back.webp",
+      "width": 180,
+      "height": 171,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_bt_close.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-army-1.webp",
+      "width": 180,
+      "height": 176,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_army_1.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-army-2.webp",
+      "width": 180,
+      "height": 172,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_army_2.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-army-3.webp",
+      "width": 180,
+      "height": 167,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_army_3.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-army-4.webp",
+      "width": 180,
+      "height": 172,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_army_4.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-army-5.webp",
+      "width": 180,
+      "height": 173,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_army_5.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-navy-1.webp",
+      "width": 180,
+      "height": 174,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_fleet_1.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-navy-2.webp",
+      "width": 180,
+      "height": 169,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_fleet_2.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-shinobi-1.webp",
+      "width": 180,
+      "height": 176,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_shinobi_1.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-shinobi-2.webp",
+      "width": 180,
+      "height": 175,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_shinobi_2.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-blessing-2.webp",
+      "width": 180,
+      "height": 171,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_blessing_2.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-raid-0.webp",
+      "width": 180,
+      "height": 167,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_pogrom_0.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-diplomacy-0.webp",
+      "width": 180,
+      "height": 178,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_diplomacy_0.png"
+    },
+    {
+      "path": "/art/tokens/scorpion-bluff-0.webp",
+      "width": 180,
+      "height": 161,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorpion_empty_0.png"
+    },
+    {
+      "path": "/art/clans/unicorn.webp",
+      "width": 500,
+      "height": 178,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_shirm.png"
+    },
+    {
+      "path": "/art/emblems/unicorn.webp",
+      "width": 160,
+      "height": 159,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unic_close.png"
+    },
+    {
+      "path": "/art/controls/unicorn-closed.webp",
+      "width": 160,
+      "height": 159,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unic_close.png"
+    },
+    {
+      "path": "/art/controls/unicorn-open.webp",
+      "width": 160,
+      "height": 159,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unic_open.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-back.webp",
+      "width": 180,
+      "height": 170,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_bt_close.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-army-1.webp",
+      "width": 180,
+      "height": 171,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_army_1.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-army-2.webp",
+      "width": 180,
+      "height": 168,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_army_2.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-army-3.webp",
+      "width": 180,
+      "height": 178,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_army_3.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-army-4.webp",
+      "width": 180,
+      "height": 175,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_army_4.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-army-5.webp",
+      "width": 180,
+      "height": 177,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_army_5.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-navy-1.webp",
+      "width": 180,
+      "height": 175,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_fleet_1.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-navy-2.webp",
+      "width": 180,
+      "height": 178,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_fleet_2.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-shinobi-1.webp",
+      "width": 180,
+      "height": 180,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_shinobi_1.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-shinobi-2.webp",
+      "width": 180,
+      "height": 172,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_shinobi_2.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-blessing-2.webp",
+      "width": 180,
+      "height": 173,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_blessing_2.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-raid-0.webp",
+      "width": 180,
+      "height": 172,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_pogrom_0.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-diplomacy-0.webp",
+      "width": 180,
+      "height": 166,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_diplomacy_0.png"
+    },
+    {
+      "path": "/art/tokens/unicorn-bluff-0.webp",
+      "width": 180,
+      "height": 172,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/unicorn_empty_0.png"
+    },
+    {
+      "path": "/art/cards/harbor.webp",
+      "width": 362,
+      "height": 568,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/sea_token_special_card.png"
+    },
+    {
+      "path": "/art/cards/promotion.webp",
+      "width": 358,
+      "height": 558,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/rotation_card.png"
+    },
+    {
+      "path": "/art/cards/honor.webp",
+      "width": 360,
+      "height": 559,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/1_points_special_card.png"
+    },
+    {
+      "path": "/art/cards/peace.webp",
+      "width": 361,
+      "height": 562,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/piece_special_card.png"
+    },
+    {
+      "path": "/art/cards/shrine.webp",
+      "width": 363,
+      "height": 559,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/shrine_special_card.png"
+    },
+    {
+      "path": "/art/cards/purpose.webp",
+      "width": 357,
+      "height": 556,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/get_2_ct_special_card.png"
+    },
+    {
+      "path": "/art/cards/port.webp",
+      "width": 374,
+      "height": 559,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/2_points_special_card.png"
+    },
+    {
+      "path": "/art/cards/bushido.webp",
+      "width": 353,
+      "height": 547,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/4_points_special_card.png"
+    },
+    {
+      "path": "/art/cards/battlefield.webp",
+      "width": 356,
+      "height": 550,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/battlefield_special_card.png"
+    },
+    {
+      "path": "/art/cards/levies.webp",
+      "width": 349,
+      "height": 559,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/1_defense_special_card.png"
+    },
+    {
+      "path": "/art/cards/harvest.webp",
+      "width": 367,
+      "height": 558,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/get_2_ct_to_1_prov_special_card.png"
+    },
+    {
+      "path": "/art/cards/kami.webp",
+      "width": 357,
+      "height": 554,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/2_defence_special_card.png"
+    },
+    {
+      "path": "/art/cards/bless.webp",
+      "width": 356,
+      "height": 557,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/del_burned_earth_special_card.png"
+    },
+    {
+      "path": "/art/cards/rebellion.webp",
+      "width": 353,
+      "height": 549,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/del_piece_special_card.png"
+    },
+    {
+      "path": "/art/cards/dark.webp",
+      "width": 368,
+      "height": 566,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/look_up_to_4_bt_special_card.png"
+    },
+    {
+      "path": "/art/cards/purge.webp",
+      "width": 353,
+      "height": 553,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/del_2_bt_special_card.png"
+    },
+    {
+      "path": "/art/cards/animate.webp",
+      "width": 359,
+      "height": 561,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/replace_ct_to_del_bt_special_card.png"
+    },
+    {
+      "path": "/art/cards/fear.webp",
+      "width": 369,
+      "height": 570,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/del_2_special_tokens_special_card.png"
+    },
+    {
+      "path": "/art/cards/exchange.webp",
+      "width": 359,
+      "height": 565,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/replace_2_ct_special_card.png"
+    },
+    {
+      "path": "/art/cards/reinforce.webp",
+      "width": 363,
+      "height": 569,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/return_2_bt_special_card.png"
+    },
+    {
+      "path": "/art/objectives/crab.webp",
+      "width": 362,
+      "height": 554,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_crab_provs_get_points_card.png"
+    },
+    {
+      "path": "/art/objectives/crane.webp",
+      "width": 358,
+      "height": 562,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_crane_provs_get_points_card.png"
+    },
+    {
+      "path": "/art/objectives/dragon.webp",
+      "width": 353,
+      "height": 563,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_dragon_provs_get_points_card.png"
+    },
+    {
+      "path": "/art/objectives/lion.webp",
+      "width": 359,
+      "height": 561,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_lion_provs_get_points_card.png"
+    },
+    {
+      "path": "/art/objectives/phoenix.webp",
+      "width": 362,
+      "height": 563,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_phoenix_provs_get_points_card.png"
+    },
+    {
+      "path": "/art/objectives/scorpion.webp",
+      "width": 351,
+      "height": 555,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_scorpion_provs_get_points_card.png"
+    },
+    {
+      "path": "/art/objectives/unicorn.webp",
+      "width": 362,
+      "height": 573,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/capital_or_2_unicorn_provs_get_points_card.png"
+    },
+    {
+      "path": "/art/objectives/empire.webp",
+      "width": 367,
+      "height": 557,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/6_provs_get_points_card.png"
+    },
+    {
+      "path": "/art/objectives/coast.webp",
+      "width": 358,
+      "height": 539,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/6_sea_provs_get_points_card.png"
+    },
+    {
+      "path": "/art/objectives/influence.webp",
+      "width": 356,
+      "height": 565,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/7_provs_get_points_card.png"
+    },
+    {
+      "path": "/art/objectives/shadow.webp",
+      "width": 355,
+      "height": 554,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/dark_provs_get_points_card.png"
+    },
+    {
+      "path": "/art/objectives/humility.webp",
+      "width": 365,
+      "height": 542,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/least_prov_get_points_card.png"
+    },
+    {
+      "path": "/art/support/scout.webp",
+      "width": 364,
+      "height": 560,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scout_card.png"
+    },
+    {
+      "path": "/art/support/shugenja.webp",
+      "width": 356,
+      "height": 556,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/sugendzya_card.png"
+    },
+    {
+      "path": "/art/support/first.webp",
+      "width": 359,
+      "height": 564,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/first_player_card.png"
+    },
+    {
+      "path": "/art/support/initiativeCards.webp",
+      "width": 353,
+      "height": 568,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/most_ter_first_player_card.png"
+    },
+    {
+      "path": "/art/support/initiativeProvinces.webp",
+      "width": 361,
+      "height": 575,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/most_prov_first_player_card.png"
+    },
+    {
+      "path": "/art/support/initiativeControls.webp",
+      "width": 370,
+      "height": 567,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/most_ct_first_player_card.png"
+    },
+    {
+      "path": "/art/specials/peace.webp",
+      "width": 140,
+      "height": 142,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/peace.png"
+    },
+    {
+      "path": "/art/specials/scorched.webp",
+      "width": 140,
+      "height": 135,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/scorched_earth.png"
+    },
+    {
+      "path": "/art/specials/shrine.webp",
+      "width": 140,
+      "height": 138,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/shrine.png"
+    },
+    {
+      "path": "/art/specials/harbor.webp",
+      "width": 140,
+      "height": 134,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/harbor.png"
+    },
+    {
+      "path": "/art/specials/honor1.webp",
+      "width": 140,
+      "height": 139,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/honor_bonus_1.png"
+    },
+    {
+      "path": "/art/specials/honor2.webp",
+      "width": 140,
+      "height": 143,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/honor_bonus_2.png"
+    },
+    {
+      "path": "/art/specials/honor4.webp",
+      "width": 140,
+      "height": 139,
+      "source": "https://github.com/litvinovmitch11/BattleForRokugan/blob/87f7ec42cc164bdfd6295c8afbbaf41d20e4b5c9/client/resources/honor.png"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "rokugan",
+  "title": "Битва за Рокуган",
+  "bgioName": "battle-for-rokugan",
+  "minPlayers": 2,
+  "maxPlayers": 5,
+  "publicUrl": "https://rokugan.zarya-boardgames.ru",
+  "channelName": "битва-за-рокуган"
+}

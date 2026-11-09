@@ -1,0 +1,1 @@
+{"extends":"./tsconfig.json","compilerOptions":{"module":"CommonJS","moduleResolution":"Node","rootDir":"packages","outDir":"build"},"include":["packages/server/src/**/*.ts","packages/engine/src/**/*.ts"],"exclude":["**/*.test.ts"]}

@@ -1,0 +1,1 @@
+{"name":"@rokugan/client","version":"0.1.0","private":true,"type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build"},"dependencies":{"@rokugan/engine":"*","boardgame.io":"^0.50.2","react":"^18.3.0","react-dom":"^18.3.0","vite":"^6.0.0"}}
